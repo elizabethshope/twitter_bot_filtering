@@ -1,4 +1,6 @@
-# twitter_bot_filtering
+# Twitter Bot Filtering
+
+## Intro & Motivation
 This repository contains code to help filter out some Twitter bots.
 
 Tweets from Twitter bots can make it extremely challenging to find meaningful signals in Twitter data. There are a wide range of purposes of Twitter bots; some are benevolent bots that share information about weather and job postings. Others are more nefarious and deceptive, attempting to influence elections or direct people to porn sites.
